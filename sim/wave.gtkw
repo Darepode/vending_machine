@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+[*] Wed Mar 26 18:26:29 2025
+[*]
+[dumpfile] "/home/datpham/Study/vending_machine/sim/vending_machine_tb.vcd"
+[dumpfile_mtime] "Wed Mar 26 18:05:30 2025"
+[dumpfile_size] 3175
+[savefile] "/home/datpham/Study/vending_machine/sim/wave.gtkw"
+[timestart] 0
+[size] 1920 985
+[pos] -1 -1
+*-14.501251 67300 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] vending_machine_tb.
+[treeopen] vending_machine_tb.dut.
+[sst_width] 297
+[signals_width] 174
+[sst_expanded] 1
+[sst_vpaned_height] 292
+@28
+vending_machine_tb.clk
+vending_machine_tb.reset_n
+vending_machine_tb.start
+vending_machine_tb.done_money
+vending_machine_tb.cancel
+vending_machine_tb.continue_buy
+vending_machine_tb.money[2:0]
+vending_machine_tb.item_in[1:0]
+@200
+-
+-
+@28
+vending_machine_tb.done
+vending_machine_tb.end_trans
+@22
+vending_machine_tb.sum_money[7:0]
+vending_machine_tb.price[7:0]
+@28
+vending_machine_tb.item_select[1:0]
+@200
+-
+-
+@28
+vending_machine_tb.dut.U1.next_state[2:0]
+vending_machine_tb.dut.U2.state[2:0]
+[pattern_trace] 1
+[pattern_trace] 0

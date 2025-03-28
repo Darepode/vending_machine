@@ -1,0 +1,11 @@
+
+
+../src/fsm.v
+../src/output_loic.v
+../src/control.v
+../src/sub.v
+../src/decoder.v
+../src/output_handler.v
+../src/vending_machine.v
+
+../tb/vending_machine_tb.sv
